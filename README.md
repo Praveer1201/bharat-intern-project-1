@@ -1,2 +1,2 @@
-# bharat-intern-project-1
+# titanic classification
 titanic classification
